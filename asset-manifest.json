@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Routing-App/static/css/main.2c3cb2b6.css",
+    "main.js": "/Routing-App/static/js/main.dd48e369.js",
+    "static/media/fa-solid-900.ttf": "/Routing-App/static/media/fa-solid-900.b48ad290d0335879a92b.ttf",
+    "static/media/fa-brands-400.ttf": "/Routing-App/static/media/fa-brands-400.f9ee61fab3c11e2f3ed3.ttf",
+    "static/media/fa-solid-900.woff2": "/Routing-App/static/media/fa-solid-900.66104b766c3d0462b3c5.woff2",
+    "static/media/fa-brands-400.woff2": "/Routing-App/static/media/fa-brands-400.e1a247a5ef41e1975742.woff2",
+    "static/media/fa-regular-400.ttf": "/Routing-App/static/media/fa-regular-400.abf801b7acb6705a15ad.ttf",
+    "static/media/home.png": "/Routing-App/static/media/home.0d1399705ce041bf6dc3.png",
+    "static/media/cabin.png": "/Routing-App/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/Routing-App/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/Routing-App/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/Routing-App/static/media/fa-regular-400.639d2000c1ece92eaec8.woff2",
+    "static/media/submarine.png": "/Routing-App/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/Routing-App/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/Routing-App/static/media/cake.6554473016d32b343f02.png",
+    "static/media/fa-v4compatibility.ttf": "/Routing-App/static/media/fa-v4compatibility.f601162ae669f88823a3.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Routing-App/static/media/fa-v4compatibility.745989aab0d69cab7e70.woff2",
+    "index.html": "/Routing-App/index.html",
+    "main.2c3cb2b6.css.map": "/Routing-App/static/css/main.2c3cb2b6.css.map",
+    "main.dd48e369.js.map": "/Routing-App/static/js/main.dd48e369.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2c3cb2b6.css",
+    "static/js/main.dd48e369.js"
+  ]
+}
